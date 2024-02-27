@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%202Zerozero!&fontSize=48)
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Zerozero)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,4 +7,3 @@
   <br>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-</div>
