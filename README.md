@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=I%20AM%202Zerozero&20👋fontSize=48)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=I%20AM%202Zerozero&20👋&fontSize=48)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Zerozero)](https://github.com/anuraghazra/github-readme-stats)
 
