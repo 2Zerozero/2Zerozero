@@ -9,6 +9,6 @@
 
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradien&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=footer" />
   
 </div>
