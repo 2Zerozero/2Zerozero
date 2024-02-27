@@ -1,19 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=I%20AM%202Zerozero&fontSize=48)
+<h2>안녕하세요. 👋
 
+    <p>자바스크립트를 주로 이용하여, 프론트엔드 개발자 이영우 입니다.
+    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Zerozero&show_icons=true&theme=radical)
 
-
------
-
------
-
-
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=2Zerozero&show_icons=true&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=2Zerozero&theme=transparent" alt="GitHub Streak" />
-    </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=150&section=footer" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Zerozero)](https://github.com/anuraghazra/github-readme-stats)
