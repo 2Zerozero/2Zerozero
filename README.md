@@ -1,4 +1,4 @@
-<div align="center">
+
   <H1>2Zerozero 👋</H1>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
@@ -18,4 +18,4 @@
   <br>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-</div>
+
