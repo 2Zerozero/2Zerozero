@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%202Zerozero!&fontSize=48)
+
 <div align="center">
-  <H1>2Zerozero 👋</H1>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   
