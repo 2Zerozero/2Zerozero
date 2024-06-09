@@ -2,7 +2,7 @@
 ## 2Zerozero | Young Woo Lee 👋
 ### FrontEnd Developer
 
-Stacks
+🕹️ Stacks
 
 ---
 
