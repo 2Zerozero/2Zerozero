@@ -2,7 +2,7 @@
 ## 2Zerozero | Young Woo Lee 👋
 ### FrontEnd Developer
 
-기술 스택
+Stacks
 
 ---
 
