@@ -1,5 +1,5 @@
 
-<H2> 👋 2Zerozero | Young Woo Lee </H2>
+<H2> 2Zerozero | Young Woo Lee 👋 </H2>
 <H3> FrontEnd Developer </H3>
 
 
