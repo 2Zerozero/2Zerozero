@@ -1,6 +1,5 @@
 
-# Hello. 👋
-### 2Zerozero | Young Woo Lee
+# 2Zerozero | Young Woo Lee 👋
 
 
 </br>
