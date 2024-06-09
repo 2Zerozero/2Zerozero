@@ -4,7 +4,7 @@
 
 기술 스택
 
-<img src="https://img.shields.io/badge/[javascript]-[#000000]?style=[social]&logo=[Javascript]&logoColor=[#F7DF1E]"/>
+<img src="https://img.shields.io/badge/[javascript]-[#000000]?style=[social]&logo=[javascript]&logoColor=[#F7DF1E]"/>
 -
 -
 -
