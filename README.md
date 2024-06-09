@@ -1,6 +1,6 @@
 
-# 2Zerozero | Young Woo Lee 👋
-## FrontEnd Developer
+## 2Zerozero | Young Woo Lee 👋
+### FrontEnd Developer
 
 </br>
 
