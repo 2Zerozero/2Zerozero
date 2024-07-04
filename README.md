@@ -1,6 +1,10 @@
 
 <H3>2Zerozero!</H3>
+
+**About me**
+
  - Front-end Developer
+ - I study Front-end development every day
 
 <H3>Stack's</H3>
 
