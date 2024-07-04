@@ -1,6 +1,6 @@
 
 <H3>2Zerozero!</H3>
-- Front-end Developer
+ - Front-end Developer
 
 <H3>Stack's</H3>
 
