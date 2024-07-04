@@ -1,2 +1,2 @@
 
-<H2> FrontEnd Developer </H2>
+<H2> Front-End Developer </H2>
