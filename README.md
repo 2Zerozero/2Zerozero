@@ -1,5 +1,8 @@
 
 <H2> 2Zerozero | YoungWoo Lee </H2>
+-----
+<H3> Front-end Developer </H3>
+-----
 
 <details>
 <summary>
