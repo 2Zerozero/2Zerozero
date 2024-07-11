@@ -1,10 +1,10 @@
 
 <H3>2Zerozero!</H3>
-<H4>hawgae@gmail.com</H4>
 
 **About me**
 
  - Front-end Developer
+ - Mail : hawgae@gmail.com
  - I study Front-end development every day
 
 <H3>Stack's</H3>
