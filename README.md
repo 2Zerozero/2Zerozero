@@ -3,7 +3,7 @@
 
 **About me**
 
- - <a href="mailto:hawgae@gmail.com">Mail</a>
+ - <a href="mailto:hawgae@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
  - Front-end Developer
  - I study Front-end development every day
 
