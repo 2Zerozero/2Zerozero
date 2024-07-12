@@ -3,8 +3,8 @@
 
 **About me**
 
+ - <a href="mailto:hawgae@gmail.com">Mail</a>
  - Front-end Developer
- - Mail : hawgae@gmail.com
  - I study Front-end development every day
 
 <H3>Stack's</H3>
