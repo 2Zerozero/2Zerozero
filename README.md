@@ -3,6 +3,8 @@
 
 **About me**
 
+Blog / Gmail
+
  - Front-end Developer
  - I study Front-end development every day
 
